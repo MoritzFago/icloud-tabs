@@ -46,7 +46,7 @@ import os
 from update_config import *
 
 # Request Header Constants
-HOST = "p13-keyvalueservice.icloud.com"
+HOST = "p05-keyvalueservice.icloud.com"
 USER_AGENT = "SyncedDefaults/91.30 (Mac OS X 10.9.1 (13B42))" #"SyncedDefaults/43.27 (Mac OS X 10.8.4 (12E55))"
 X_MME_CLIENT_INFO = "<Macmini3,1> <Mac OS X;10.9.1;13B42> <com.apple.SyncedDefaults/91.30>" #"<MacBookAir4,2> <Mac OS X;10.8.4;12E55> <com.apple.SyncedDefaults/43.27>"
 
