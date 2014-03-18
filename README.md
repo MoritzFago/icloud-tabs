@@ -21,7 +21,7 @@ $ python update.py
 Config
 ------
 Most constants for update_config.py can be grabbed from watching requests with mitmproxy:
-
+IF YOU HAVE AN HTTP ERROR CODE 30* CHANGE HOST IN UPDATE.PY
 ```bash
 $ pip install mitmproxy
 $ mitmproxy -p 8080 
